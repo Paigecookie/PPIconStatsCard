@@ -1,0 +1,30 @@
+
+.icon {
+    margin-left: 150px;
+   justify-content: center;
+}
+
+.header {
+    justify-content: center;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.bio {
+    display: flex;
+    justify-content: center;
+}
+
+
+table, td, th {
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-left: 130px;
+}
+
+.images {
+    display: flex;
+}
